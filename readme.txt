@@ -19,5 +19,13 @@ is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
  free software.\
 
-\f2 \'d0\'de\'b8\'c4\'c1\'cb
-\f0 readme.txt}
+\f2 \expnd0\expndtw0\kerning0
+\'d0\'de\'b8\'c4\'c1\'cb
+\f0 \expnd0\expndtw0\kerning0
+readme.txt\
+
+\f2 \expnd0\expndtw0\kerning0
+\'b5\'da\'b6\'fe\'b4\'ce\'d0\'de\'b8\'c4
+\f0 \expnd0\expndtw0\kerning0
+\
+}
