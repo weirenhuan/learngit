@@ -28,4 +28,6 @@ readme.txt\
 \'b5\'da\'b6\'fe\'b4\'ce\'d0\'de\'b8\'c4
 \f0 \expnd0\expndtw0\kerning0
 \
-}
+
+\f2 \expnd0\expndtw0\kerning0
+\'b5\'da\'c8\'fd\'b4\'ce\'d0\'de\'b8\'c4}
