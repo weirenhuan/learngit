@@ -1,5 +1,6 @@
 {\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fnil\fcharset134 STHeitiSC-Light;
+}
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
 }
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
@@ -16,4 +17,7 @@ Git
 \f1\b \cf4 \expnd0\expndtw0\kerning0
 is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
- free software.}
+ free software.\
+
+\f2 \'d0\'de\'b8\'c4\'c1\'cb
+\f0 readme.txt}
